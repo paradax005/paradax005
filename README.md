@@ -1,78 +1,102 @@
-![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
-<div id="top"></div>
-<p align="center">
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFEFAF&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B;I'm+Fatnassi+Borhen;Open+source+enthusiast;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%98%87"></div>
+<a id="top"></a>
 
 <p align="center">
-  <a href="https://github.com/paradax005?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/paradax005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/paradax005?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/paradax005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/paradax005/">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=paradax005&label=Profile%20Views%20&color=ff0000&style=for-the-badge"/></a>
-</p>
-<div align="left">
-
-# 👨🏻‍💻  About Me
-💡  I am a passionate mobile engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with great interest in developing and programming software.<br>
-💻  I’m currently working on something cool <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
-✍️  In my free time, I usually listen to music  and pursue writing as my hobbies .<br>
-✉️  You can email me at borhen.fatnassi@esprit.tn. I'll try to respond as soon as possible !<br>
-
-#  Languages, Tools and Platforms
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>
-![Kotlin](https://img.shields.io/badge/kotlin-%234B275F.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-<br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-<br>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-<br>
-![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android) ![iOS](https://img.shields.io/badge/-iOS-090909?style=for-the-badge&logo=ios)
-![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
-
-
-# ⚙️ GitHub Analytics
-
-<p align=center>
-    <div align="center">
-     <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=paradax005&show_icons=true&theme=algolia"/>
-      <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=paradax005&theme=algolia" alt="MobileDev's Github stats" />
-      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=algolia&hide=Makefile,Roff,cMake,Shell,html,css,c%2B%2B,c&langs_count=6"/>
-      <br>
-      <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    </div>
+  <img src="./github_cover.png" alt="Fatnassi Borhen — Flutter Developer & Mobile Software Engineer" width="100%" />
 </p>
 
-# 📫 Connect with me
-If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,
-you can always contact me at: <br>
-
-<!-- Social Links -->
-<div align="center">
-<a href="mailto:borhen.fatnassi@esprit.tn"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/borhen-fatnassi-881429211/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/borhen005/"><img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/borhen.fatnassi.5/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-</div>
-
-
-<h6 align="center"> </h6>
+<p align="center">
+  <a href="https://www.linkedin.com/in/borhen-fatnassi-881429211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:borhen.fatnassi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/paradax005"><img src="https://komarev.com/ghpvc/?username=paradax005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
+</p>
 
 ---
+
+### 👨🏻‍💻 About Me
+
+Hi, I'm **Borhen** 👋 — a Flutter developer and mobile software engineer based in Tunisia with **3.5+ years of experience** building, shipping, and maintaining production **Android and iOS** applications. I work primarily with **Flutter/Dart**, **BLoC/Cubit**, **Clean Architecture**, and **Firebase**, handling the full lifecycle from architecture to store delivery.
+
+- 🔄 **Offline-First & Real-Time Sync:** Designing resilient local-first mobile architectures using SQLite/Floor, Cloud Firestore, persistent outbox queues, and conflict resolution.
+- 🏗️ **Architecture & Modernization:** Clean Architecture, SOLID principles, modular refactoring, and legacy Flutter migrations.
+- 🚀 **End-to-End Mobile Delivery:** Certificates, code signing, CI/CD pipelines, and production releases on the App Store & Google Play.
+- 🧩 **Full-Stack & Native Capabilities:** REST/GraphQL backends with Node.js, Express, and MongoDB, plus native Android (Kotlin) and iOS (Swift) experience.
+- 🎓 **Education:** Engineering Degree in Computer Science, ESPRIT (2020 – 2025).
+- 🌍 **Languages:** French · English · Arabic
+
+---
+
+### 🛠️ Tech Stack
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+**Backend, Cloud & Data**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**DevOps & Tooling**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+- **State Management:** BLoC / Cubit, Provider, GetX
+- **Data & DI:** Floor (SQLite), Cloud Firestore, Outbox Pattern, GetIt, Repository Pattern
+- **Quality & Monitoring:** Unit & Widget Testing, Firebase Crashlytics & Analytics
+- **CI/CD:** GitHub Actions, Fastlane, Codemagic
+
+---
+
+### 📂 Selected Open-Source Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**escapeVRoom**](https://github.com/paradax005/escapeVRoom) | Mobile app for the virtual escape room gaming community | Flutter, Firebase |
+| [**job_finder**](https://github.com/paradax005/job_finder) & [**backend**](https://github.com/paradax005/job_finder_backend) | Full-stack platform connecting job seekers and employers | Flutter, Node.js, Express |
+| [**Larix**](https://github.com/paradax005/Larix) | Mobile frontend for human resource management workflows | Flutter, Dart |
+| [**Party_Planner**](https://github.com/paradax005/Party_Planner) & [**iOS**](https://github.com/paradax005/PartyPlanner-ios) | Native Android & iOS event planning apps with real-time notifications | Kotlin, Swift, Node.js |
+| [**Train-App-DevOps**](https://github.com/paradax005/Train-App-DevOps) | End-to-end CI/CD pipeline for a train ticket booking application | Java, DevOps |
+| [**flutter_workshop**](https://github.com/paradax005/flutter_workshop) | Hands-on guide covering core Flutter widgets and layouts | Flutter, Dart |
+
+---
+
+### ⚙️ GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paradax005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=paradax005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+> **Note:** Language stats only reflect public repositories and do not represent full production experience.
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  Feel free to reach out for collaborations or questions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/borhen-fatnassi-881429211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:borhen.fatnassi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/paradax005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
 <p align="center">(<a href="#top">back to top</a>)</p>
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
+
+<h6 align="center">👇🏻 Explore my pinned open-source repositories below 👇🏻</h6>
