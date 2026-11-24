@@ -74,14 +74,11 @@ Hi, I'm **Borhen** 👋 — a Flutter developer and mobile software engineer bas
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paradax005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=paradax005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=paradax005&theme=tokyonight&hide_border=true" alt="GitHub Contributions & Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=tokyonight&hide_border=true&hide=Makefile,Roff,cMake,Shell,html,css,c%2B%2B,c&langs_count=6" alt="Top Languages" />
 </p>
 
-> **Note:** Language stats only reflect public repositories and do not represent full production experience.
+> **Note:** Stats only reflect public repositories and GitHub contribution counts; most recent production work lives in private repositories.
 
 ---
 
